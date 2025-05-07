@@ -1,0 +1,5 @@
+faster-whisper
+moviepy==2.1.2
+opencv-python
+numpy
+streamlit
